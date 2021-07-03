@@ -1,7 +1,6 @@
 # online-study
 온라인학습관리
 Repositories
-https://github.com/21-2-1team/bidding03.git
 Table of contents
 [서비스 시나리오]
 
