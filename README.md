@@ -67,15 +67,11 @@
 ```
 
 ### Microservice
-주문관리 - 
-
-```
-주문관리 – BiddingManagement
-학습관리 - BiddingParticipation
-학습평가 - BiddingExamination
+주문관리 - OrderManagement
+학습관리 - LearningManagement
+학습평가 - LearningEvaluation
 문자알림이력 - Notification
-현황조회 - MyPage
-```
+현황조회 - Mypage
 
 
 # 분석/설계
