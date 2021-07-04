@@ -91,7 +91,6 @@
 
 
 ### TO-BE 조직 (Vertically-Aligned)
-
 ![image](https://user-images.githubusercontent.com/84000893/124372842-7df96b80-dcc8-11eb-8a4e-ddf5f8013ef8.png)
 
 
