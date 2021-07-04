@@ -385,7 +385,7 @@ public interface BiddingManagementRepository extends PagingAndSortingRepository<
   - http GET localhost:8082/learningManagements/1
 
 ![image](https://user-images.githubusercontent.com/84000893/124385622-7dd18e00-dd11-11eb-854d-11aedad488a7.png)
-
+![image](https://user-images.githubusercontent.com/84000893/124385793-2ed82880-dd12-11eb-8a4f-eb1419283fe1.png)
 
  2. 학습관리서비스에서 학습관리시작 (Async Pub/Sub, Command PATCH->Policy)
   - http PATCH localhost:8082/learningManagements/1 orderNo=01 managername=조상임  status="학습관리시작"
