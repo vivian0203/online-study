@@ -400,9 +400,9 @@ public interface BiddingManagementRepository extends PagingAndSortingRepository<
   - http PATCH localhost:8083/learningEvaluations/1 endFlg=true score=90
   - http GET localhost:8081/orderManagements/1
 
-4. 주문관리서비스가 다운되어있으면 학습평가서비스에서 평가점수도 등록도 실패 (Sync-Req/Res)
-
-
+![image](https://user-images.githubusercontent.com/84000893/124386356-f7b74680-dd14-11eb-8676-aa9babe92a84.png)
+![image](https://user-images.githubusercontent.com/84000893/124386366-000f8180-dd15-11eb-8813-9d970234b9ad.png)
+![image](https://user-images.githubusercontent.com/84000893/124386372-07368f80-dd15-11eb-9ebf-08765d94cc1e.png)
 
 
 
