@@ -411,30 +411,9 @@ public interface BiddingManagementRepository extends PagingAndSortingRepository<
 
 5. Gateway 8088포트로 진입점 통일
 
-![image](https://user-images.githubusercontent.com/84000893/124390457-b29c1000-dd26-11eb-9819-de8ddc7500ae.png)
 ![image](https://user-images.githubusercontent.com/84000893/124390461-b760c400-dd26-11eb-906f-b9af9eab7d51.png)
 ![image](https://user-images.githubusercontent.com/84000893/124390465-bb8ce180-dd26-11eb-83d0-4df1c63c5dfe.png)
-
-
-
-
-![image](https://user-images.githubusercontent.com/84000959/122253640-5011da00-cf07-11eb-8b8d-b954879ab902.png)
-
-![image](https://user-images.githubusercontent.com/84000959/122253676-586a1500-cf07-11eb-8d1a-7b7b966a27bf.png)
-
-![image](https://user-images.githubusercontent.com/84000959/122253698-5ef88c80-cf07-11eb-8b40-5ae0ccbbd91e.png)
-
-![image](https://user-images.githubusercontent.com/84000959/122327901-9f88f200-cf69-11eb-8aa7-3edffac01e7a.png)
-
-![image](https://user-images.githubusercontent.com/84000959/122253729-66b83100-cf07-11eb-8d38-bfb30aabfa7e.png)
-
-![image](https://user-images.githubusercontent.com/84000959/122253779-720b5c80-cf07-11eb-88c7-8e6c687c63a3.png)
-
-![image](https://user-images.githubusercontent.com/84000959/122253810-79cb0100-cf07-11eb-8557-fad7d460bd75.png)
-
-![image](https://user-images.githubusercontent.com/84000959/122331399-b5011a80-cf6f-11eb-8cdc-27bd84ef5cfd.png)
-
-![image](https://user-images.githubusercontent.com/84000959/122337586-7f612f00-cf79-11eb-94cd-d5af9ff136de.png)
+![image](https://user-images.githubusercontent.com/84000893/124390457-b29c1000-dd26-11eb-9819-de8ddc7500ae.png)
 
 
 ## 폴리글랏 퍼시스턴스
