@@ -381,6 +381,9 @@ public interface BiddingManagementRepository extends PagingAndSortingRepository<
 
 - 적용 후 REST API 의 테스트
 
+![image](https://user-images.githubusercontent.com/84000893/124384525-9b502900-dd0c-11eb-940b-45910ef4b85d.png)
+
+
 ![image](https://user-images.githubusercontent.com/84000959/122253612-47b99f00-cf07-11eb-85c1-bc9736d97ec9.png)
 
 ![image](https://user-images.githubusercontent.com/84000959/122253640-5011da00-cf07-11eb-8b8d-b954879ab902.png)
