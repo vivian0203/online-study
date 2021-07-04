@@ -381,6 +381,12 @@ public interface BiddingManagementRepository extends PagingAndSortingRepository<
 
 - 적용 후 REST API 의 테스트
 
+1. 주문서비스에서 강좌주문등록 (Async Pub/Sub, Command POTS->Policy)
+http POST localhost:8081/orderManagements orderNo=01 courseNo=01 phonenum=01011111111 orderdate=20210630 begindate=20210701 enddate=20210831 status="강좌주문"
+http GET localhost:8082/learningManagements/1
+![image](https://user-images.githubusercontent.com/84000893/124384712-8f189b80-dd0d-11eb-8459-3172dc0c00ea.png)
+
+
 ![image](https://user-images.githubusercontent.com/84000893/124384525-9b502900-dd0c-11eb-940b-45910ef4b85d.png)
 
 
