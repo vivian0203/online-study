@@ -135,7 +135,7 @@
 
 ### 바운디드 컨텍스트로 묶기
 
-![7  바운디드 컨텍스트로 묶기](https://user-images.githubusercontent.com/84000922/122162416-8111f080-ceae-11eb-87be-10c03082eab2.png)
+![image](https://user-images.githubusercontent.com/84000893/124374662-40044380-dcd8-11eb-9428-675571d7b867.png)
 
 ```
 도메인 서열 분리
