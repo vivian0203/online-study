@@ -393,7 +393,8 @@ public interface BiddingManagementRepository extends PagingAndSortingRepository<
   - http GET localhost:8084/smsHistories
 
 ![image](https://user-images.githubusercontent.com/84000893/124386255-8d060b00-dd14-11eb-83dd-c757bac0df7e.png)
-
+![image](https://user-images.githubusercontent.com/84000893/124386285-b4f56e80-dd14-11eb-9e75-c88e4b284df1.png)
+![image](https://user-images.githubusercontent.com/84000893/124386295-baeb4f80-dd14-11eb-82a1-32a304049cd1.png)
 
 3. 학습평가서비스에서 평가점수등록 (Sync-Req/Res, 주문관리 평가점수 등록되어야만 학습평가서비스에도 등록됨)
   - http PATCH localhost:8083/learningEvaluations/1 endFlg=true score=90
