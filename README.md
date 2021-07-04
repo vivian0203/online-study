@@ -99,8 +99,7 @@
 
 ### 이벤트 도출
 
-![3  이벤트 도출](https://user-images.githubusercontent.com/84000922/122162410-7fe0c380-ceae-11eb-9822-adb2c3b8d62a.png)
-
+![image](https://user-images.githubusercontent.com/84000893/124373491-99b34080-dccd-11eb-8eed-7d87f0e1c87c.png)
 
 
 
