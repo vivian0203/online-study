@@ -428,9 +428,9 @@ public interface BiddingManagementRepository extends PagingAndSortingRepository<
 	<scope>runtime</scope>
 </dependency>
 ```
-![image](https://user-images.githubusercontent.com/84000959/122328060-e7a81480-cf69-11eb-9955-954f88b7ec1b.png)
+![image](https://user-images.githubusercontent.com/84000893/124394036-78d40500-dd38-11eb-9402-698c89dcd825.png)
 
-- 입찰관리, 입찰참여, 입찰심사 등 나머지 서비스는 H2 DB를 사용한다.
+- 주문관리, 학습관리, 학습평가 등 나머지 서비스는 H2 DB를 사용한다.
 ```
 <dependency>
 	<groupId>com.h2database</groupId>
