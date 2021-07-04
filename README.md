@@ -401,11 +401,6 @@ public interface BiddingManagementRepository extends PagingAndSortingRepository<
   - http GET localhost:8081/orderManagements/1
   - 동기호출 서비스 처리순서 (빨간색박스) 
 
-![image](https://user-images.githubusercontent.com/84000893/124386356-f7b74680-dd14-11eb-8676-aa9babe92a84.png)
-![image](https://user-images.githubusercontent.com/84000893/124386366-000f8180-dd15-11eb-8813-9d970234b9ad.png)
-![image](https://user-images.githubusercontent.com/84000893/124386599-2681ec80-dd16-11eb-9e12-8b9d03b8c153.png)
-
-
 ![image](https://user-images.githubusercontent.com/84000959/122253640-5011da00-cf07-11eb-8b8d-b954879ab902.png)
 
 ![image](https://user-images.githubusercontent.com/84000959/122253676-586a1500-cf07-11eb-8d1a-7b7b966a27bf.png)
