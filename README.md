@@ -149,7 +149,7 @@
 
 ### 폴리시 부착, 이동 및 컨텍스트 매핑(점선은 Pub/Sub, 실선은 Req/Resp)
 
-![image](https://user-images.githubusercontent.com/84000893/124374294-0b42bd00-dcd5-11eb-872a-b4e9224f1264.png)
+![image](https://user-images.githubusercontent.com/84000893/124374529-fcf5a080-dcd6-11eb-9715-632539917e80.png)
 
 
 
