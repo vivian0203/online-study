@@ -405,7 +405,8 @@ public interface BiddingManagementRepository extends PagingAndSortingRepository<
 ![image](https://user-images.githubusercontent.com/84000893/124388377-a3fd2b00-dd1d-11eb-861e-e6ad18722a22.png)
 ![image](https://user-images.githubusercontent.com/84000893/124388383-a9f30c00-dd1d-11eb-8073-ddc5832129d0.png)
 
-4. MyPage 
+4. MyPage 학습관리오류- CQRS 
+![image](https://user-images.githubusercontent.com/84000893/124388625-aca23100-dd1e-11eb-890e-2a8ee2fc738c.png)
 
 
 ![image](https://user-images.githubusercontent.com/84000959/122253640-5011da00-cf07-11eb-8b8d-b954879ab902.png)
