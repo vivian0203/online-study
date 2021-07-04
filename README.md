@@ -62,22 +62,22 @@
 
 ```
 1. 트랜잭션
-  - 심사결과가 등록되면 입찰공고에 낙찰자 정보가 등록되어야 한다. (Sync 호출)
+  - 평가결과점수가 등록되면 주문관리에도 평가결과점수가 반드시 등록되어야 한다. (Sync 호출)
 2. 장애격리
-  - 입찰심사 기능이 수행되지 않더라도 입찰관리, 입찰참여 기능은 365일 24시간 받을 수 있어야 한다. Async (event-driven), Eventual Consistency
-  - 입찰참여 기능이 과중되면 사용자를 잠시 동안 받지 않고 입찰참여를 잠시후에 하도록 유도한다. Circuit breaker, fallback
+  - 학습평가 기능이 수행되지 않더라도 주문관리, 학습관리 기능은 365일 24시간 받을 수 있어야 한다. Async (event-driven), Eventual Consistency
+  - 학습관리 기능이 과중되면 사용자를 잠시 동안 받지 않고 입찰참여를 잠시후에 하도록 유도한다. Circuit breaker, fallback
 3. 성능
-  - 조달업체는 입찰현황조회 화면에서 입찰 상태를 확인 할 수 있어야 한다.CQRS - 조회전용 서비스
+  - 학생은 학습현황조회 화면에서 학습상태를 확인 할 수 있어야 한다.CQRS - 조회전용 서비스
 ```
 
 ### Microservice명
 
 ```
-입찰관리 – BiddingManagement
-입찰참여 - BiddingParticipation
-입찰심사 - BiddingExamination
+주문관리 – OrderManagement
+학습관리 - LearningManagement
+학습평가 - LearningEvaluation
 문자알림이력 - Notification
-입찰현황조회 - MyPage
+학습현황조회 - MyPage
 ```
 
 
