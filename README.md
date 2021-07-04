@@ -384,6 +384,10 @@ public interface BiddingManagementRepository extends PagingAndSortingRepository<
 - http POST localhost:8081/orderManagements orderNo=01 courseNo=01 phonenum=01011111111 orderdate=20210630 begindate=20210701 enddate=20210831 status="강좌주문"
 - http GET localhost:8082/learningManagements/1
 
+![image](https://user-images.githubusercontent.com/84000893/124385622-7dd18e00-dd11-11eb-854d-11aedad488a7.png)
+
+
+
  2.학습관리서비스에서 학습관리시작 (Async Pub/Sub, Command PATCH->Policy)
 - http PATCH localhost:8082/learningManagements/1 orderNo=01 managername=조상임  status="학습관리시작"
 - http GET localhost:8083/learningEvaluations/1
