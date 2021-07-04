@@ -402,7 +402,7 @@ public interface BiddingManagementRepository extends PagingAndSortingRepository<
 
 ![image](https://user-images.githubusercontent.com/84000893/124386356-f7b74680-dd14-11eb-8676-aa9babe92a84.png)
 ![image](https://user-images.githubusercontent.com/84000893/124386366-000f8180-dd15-11eb-8813-9d970234b9ad.png)
-![image](https://user-images.githubusercontent.com/84000893/124386372-07368f80-dd15-11eb-9ebf-08765d94cc1e.png)
+![image](https://user-images.githubusercontent.com/84000893/124386599-2681ec80-dd16-11eb-9e12-8b9d03b8c153.png)
 
 
 
