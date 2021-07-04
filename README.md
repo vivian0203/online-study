@@ -207,7 +207,8 @@
 
 ### 헥사고날 아키텍처 다이어그램 도출
 
-![13  헥사고날 아키텍처 다이어그램 도출](https://user-images.githubusercontent.com/84000922/122162425-82dbb400-ceae-11eb-9e47-eef31b055935.png)
+![image](https://user-images.githubusercontent.com/84000893/124390708-c98f3200-dd27-11eb-9c04-a5113467fb3f.png)
+
 
 
 
