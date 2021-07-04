@@ -381,8 +381,19 @@ public interface BiddingManagementRepository extends PagingAndSortingRepository<
 
 - 적용 후 REST API 의 테스트
 1. 주문서비스에서 강좌주문등록 (Async Pub/Sub, Command POTS->Policy)
-http POST localhost:8081/orderManagements orderNo=01 courseNo=01 phonenum=01011111111 orderdate=20210630 begindate=20210701 enddate=20210831 status="강좌주문"
-http GET localhost:8082/learningManagements/1
+- http POST localhost:8081/orderManagements orderNo=01 courseNo=01 phonenum=01011111111 orderdate=20210630 begindate=20210701 enddate=20210831 status="강좌주문"
+- http GET localhost:8082/learningManagements/1
+
+2.학습관리서비스에서 학습관리시작 (Async Pub/Sub, Command PATCH->Policy)
+- http PATCH localhost:8082/learningManagements/1 orderNo=01 managername=조상임  status="학습관리시작"
+- http GET localhost:8083/learningEvaluations/1
+- http GET localhost:8084/smsHistories
+
+3. 학습평가서비스에서 평가점수등록 (Sync-Req/Res, 주문관리 평가점수 등록되어야만 학습평가서비스에도 등록됨)
+- http PATCH localhost:8083/learningEvaluations/1 endFlg=true score=90
+- http GET localhost:8081/orderManagements/1
+
+4. 주문관리서비스가 다운되어있으면 학습평가서비스에서 평가점수도 등록도 실패 (Sync-Req/Res)
 
 
 
