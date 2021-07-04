@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/70736001/122499258-8ba5c480-d02b-11eb-987b-b097b2d87107.png)
+
 
 ### Repositories
 
