@@ -411,8 +411,8 @@ public interface BiddingManagementRepository extends PagingAndSortingRepository<
 
 5. Gateway 8088포트로 진입점 통일
 
-![image](https://user-images.githubusercontent.com/84000893/124390461-b760c400-dd26-11eb-906f-b9af9eab7d51.png)
 ![image](https://user-images.githubusercontent.com/84000893/124390465-bb8ce180-dd26-11eb-83d0-4df1c63c5dfe.png)
+![image](https://user-images.githubusercontent.com/84000893/124390461-b760c400-dd26-11eb-906f-b9af9eab7d51.png)
 ![image](https://user-images.githubusercontent.com/84000893/124390457-b29c1000-dd26-11eb-9819-de8ddc7500ae.png)
 
 
