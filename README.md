@@ -127,7 +127,7 @@
 ![image](https://user-images.githubusercontent.com/84000893/124374036-d2094d80-dcd2-11eb-90fd-6140c6058450.png)
 
 ```
-- 입찰관리, 입찰참여, 입찰심사는 그와 연결된 command 와 event 들에 의하여 트랜잭션이 유지되어야 하는 단위로 그들 끼리 묶어줌
+- 주문관리, 학습관리, 학습평가는 그와 연결된 command 와 event 들에 의하여 트랜잭션이 유지되어야 하는 단위로 묶어줌
 ```
 
 
