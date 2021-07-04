@@ -384,7 +384,7 @@ public interface BiddingManagementRepository extends PagingAndSortingRepository<
 http POST localhost:8081/orderManagements orderNo=01 courseNo=01 phonenum=01011111111 orderdate=20210630 begindate=20210701 enddate=20210831 status="강좌주문"
 http GET localhost:8082/learningManagements/1
 
-![image](https://user-images.githubusercontent.com/84000893/124384763-c8510b80-dd0d-11eb-8fae-f52fa51094c3.png)
+
 
 
 
