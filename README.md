@@ -1,4 +1,4 @@
-온라인스터디 (강좌주문-학습관리-평가)
+온라인스터디 (강좌주문 및 학습관리평가)
 ### Repositories
 
 - https://github.com/vivian0203/onlinestudy.git
