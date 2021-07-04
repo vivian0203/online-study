@@ -215,7 +215,7 @@
 
 ### Git Organization / Repositories
 
-![image](https://user-images.githubusercontent.com/84000959/122514263-a2a5e000-d046-11eb-8ee9-1e2b53211df7.png)
+![image](https://user-images.githubusercontent.com/84000893/124391117-03613800-dd2a-11eb-9040-246dfedc61c3.png)
 
 
 # 구현:
