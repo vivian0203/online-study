@@ -105,7 +105,7 @@
 
 ### 부적격 이벤트 탈락
 
-![4  부적격 이벤트 탈락](https://user-images.githubusercontent.com/84000922/122162412-7fe0c380-ceae-11eb-8aba-20f04b2a4dbb.png)
+![image](https://user-images.githubusercontent.com/84000893/124373512-c404fe00-dccd-11eb-9c44-3b0ac6cdb633.png)
 
 ```
 - 과정중 도출된 잘못된 도메인 이벤트들을 걸러내는 작업을 수행
