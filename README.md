@@ -399,6 +399,7 @@ public interface BiddingManagementRepository extends PagingAndSortingRepository<
 3. 학습평가서비스에서 평가점수등록 (Sync-Req/Res, 주문관리 평가점수 등록되어야만 학습평가서비스에도 등록됨)
   - http PATCH localhost:8083/learningEvaluations/1 endFlg=true score=90
   - http GET localhost:8081/orderManagements/1
+  - 동기호출 서비스 처리순서 (빨간색박스) 
 
 ![image](https://user-images.githubusercontent.com/84000893/124386356-f7b74680-dd14-11eb-8676-aa9babe92a84.png)
 ![image](https://user-images.githubusercontent.com/84000893/124386366-000f8180-dd15-11eb-8813-9d970234b9ad.png)
