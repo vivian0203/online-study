@@ -119,8 +119,7 @@
 
 ### 액터, 커맨드 부착하여 읽기 좋게
 
-![5  액터, 커맨드 부착하여 읽기 좋게](https://user-images.githubusercontent.com/84000922/122162413-80795a00-ceae-11eb-9b06-668274f351f7.png)
-
+![image](https://user-images.githubusercontent.com/84000893/124373987-57d8c900-dcd2-11eb-9a15-9caa3fa673cc.png)
 
 
 
