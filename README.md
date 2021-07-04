@@ -124,7 +124,7 @@
 
 ### 어그리게잇으로 묶기
 
-![6  어그리게잇으로 묶기](https://user-images.githubusercontent.com/84000922/122162415-80795a00-ceae-11eb-8b57-846e1779e420.png)
+![image](https://user-images.githubusercontent.com/84000893/124374036-d2094d80-dcd2-11eb-90fd-6140c6058450.png)
 
 ```
 - 입찰관리, 입찰참여, 입찰심사는 그와 연결된 command 와 event 들에 의하여 트랜잭션이 유지되어야 하는 단위로 그들 끼리 묶어줌
