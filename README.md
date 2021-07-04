@@ -409,7 +409,11 @@ public interface BiddingManagementRepository extends PagingAndSortingRepository<
 
 ![image](https://user-images.githubusercontent.com/84000893/124389347-9f3a7600-dd21-11eb-8fa2-8f1fb8ed38fe.png)
 
+5. Gateway 
 
+![image](https://user-images.githubusercontent.com/84000893/124390457-b29c1000-dd26-11eb-9819-de8ddc7500ae.png)
+![image](https://user-images.githubusercontent.com/84000893/124390461-b760c400-dd26-11eb-906f-b9af9eab7d51.png)
+![image](https://user-images.githubusercontent.com/84000893/124390465-bb8ce180-dd26-11eb-83d0-4df1c63c5dfe.png)
 
 
 
